@@ -1,0 +1,10 @@
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Dojo_survey\bin\Debug\netcoreapp2.0\Dojo_survey.deps.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Dojo_survey\bin\Debug\netcoreapp2.0\Dojo_survey.runtimeconfig.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Dojo_survey\bin\Debug\netcoreapp2.0\Dojo_survey.runtimeconfig.dev.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Dojo_survey\bin\Debug\netcoreapp2.0\Dojo_survey.dll
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Dojo_survey\bin\Debug\netcoreapp2.0\Dojo_survey.pdb
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Dojo_survey\obj\Debug\netcoreapp2.0\Dojo_survey.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Dojo_survey\obj\Debug\netcoreapp2.0\Dojo_survey.AssemblyInfoInputs.cache
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Dojo_survey\obj\Debug\netcoreapp2.0\Dojo_survey.AssemblyInfo.cs
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Dojo_survey\obj\Debug\netcoreapp2.0\Dojo_survey.dll
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Dojo_survey\obj\Debug\netcoreapp2.0\Dojo_survey.pdb

@@ -1,0 +1,10 @@
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Calling_card\obj\Debug\netcoreapp2.0\Calling_card.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Calling_card\obj\Debug\netcoreapp2.0\Calling_card.AssemblyInfoInputs.cache
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Calling_card\obj\Debug\netcoreapp2.0\Calling_card.AssemblyInfo.cs
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Calling_card\bin\Debug\netcoreapp2.0\Calling_card.deps.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Calling_card\bin\Debug\netcoreapp2.0\Calling_card.runtimeconfig.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Calling_card\bin\Debug\netcoreapp2.0\Calling_card.runtimeconfig.dev.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Calling_card\bin\Debug\netcoreapp2.0\Calling_card.dll
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Calling_card\bin\Debug\netcoreapp2.0\Calling_card.pdb
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Calling_card\obj\Debug\netcoreapp2.0\Calling_card.dll
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Calling_card\obj\Debug\netcoreapp2.0\Calling_card.pdb

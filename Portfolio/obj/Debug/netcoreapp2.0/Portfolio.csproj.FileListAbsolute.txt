@@ -1,0 +1,10 @@
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Portfolio\bin\Debug\netcoreapp2.0\Portfolio.deps.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Portfolio\bin\Debug\netcoreapp2.0\Portfolio.runtimeconfig.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Portfolio\bin\Debug\netcoreapp2.0\Portfolio.runtimeconfig.dev.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Portfolio\bin\Debug\netcoreapp2.0\Portfolio.dll
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Portfolio\bin\Debug\netcoreapp2.0\Portfolio.pdb
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.AssemblyInfoInputs.cache
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.AssemblyInfo.cs
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.dll
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.pdb

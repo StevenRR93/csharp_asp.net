@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Random Passcode Generator</title>
+        <!-- <link rel="stylesheet" href="~/css/survey.css"/> -->
+        <!-- <script>
+            $(document).ready(function(){
+                // external request
+                $("#button1").click(function(){
+                    $.get("Generate", function(response){
+
+                    })
+                })
+                
+                $("#button2").click(function(){
+                    $.get("Clear", function(response){
+
+                    })
+                })
+        </script> -->
+    </head>
+    <body>
+        <h1 id = "count">Random Passcode (Passcode #@ViewBag.count):</h1>
+        <h4 id = "code">@ViewBag.passcode</h4>
+        <Button id = "button1" onclick="location.href = 'Generate';" >Generate</button>
+        <Button id = "button2" onclick="location.href = 'Clear';" >Clear</button>
+    </body>
+</html>

@@ -1,0 +1,10 @@
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Time_display\bin\Debug\netcoreapp2.0\Time_display.deps.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Time_display\bin\Debug\netcoreapp2.0\Time_display.runtimeconfig.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Time_display\bin\Debug\netcoreapp2.0\Time_display.runtimeconfig.dev.json
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Time_display\bin\Debug\netcoreapp2.0\Time_display.dll
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Time_display\bin\Debug\netcoreapp2.0\Time_display.pdb
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Time_display\obj\Debug\netcoreapp2.0\Time_display.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Time_display\obj\Debug\netcoreapp2.0\Time_display.AssemblyInfoInputs.cache
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Time_display\obj\Debug\netcoreapp2.0\Time_display.AssemblyInfo.cs
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Time_display\obj\Debug\netcoreapp2.0\Time_display.dll
+C:\Users\steve\OneDrive\Documents\CodingDojo\c_sharp_stack\asp_net_core\Time_display\obj\Debug\netcoreapp2.0\Time_display.pdb
